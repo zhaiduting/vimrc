@@ -1,0 +1,3 @@
+[submodule "my_plugins/vim-auto-save"]
+	path = my_plugins/vim-auto-save
+	url = git@github.com:907th/vim-auto-save.git
