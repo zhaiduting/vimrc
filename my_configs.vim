@@ -10,4 +10,5 @@ let g:ale_fixers = {
 \   'javascript': ['eslint'],
 \   'perl': ['perltidy'],
 \   'sh': ['shfmt'],
+\   'markdown': []
 \}
